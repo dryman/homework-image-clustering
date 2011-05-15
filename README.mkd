@@ -9,7 +9,7 @@ Just make.
 
     make
 
-# SYNPOSIS
+# SYNOPSIS
 
     ./cluster xxx.jpg 8
 
