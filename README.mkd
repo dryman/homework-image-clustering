@@ -4,12 +4,13 @@
 Image clustering using k-means algorithm.
 
 # INSTALL
+
 Just make.
 
-  make
+    make
 
 # SYNPOSIS
 
-  ./cluster xxx.jpg 8
+    ./cluster xxx.jpg 8
 
 Where '8' is the cluster number. 
